@@ -1,6 +1,18 @@
 {
   "packs": [
-    "Vitalij429.json"
+    "Vitalij429.json",
+    "thevepriofficial.json",
+    "mcsoobsheniya_by_fStikBot.json",
+    "TransformersTrans.json",
+    "supermind.json",
+    "Volhebnik.json",
+    "russiancoders.json",
+    "govnosrachonok.json",
+    "tybykanul.json",
+    "invisible_man.json",
+    "linuxusers.json",
+    "JakFresco.json",
+    "kontorapidarasov.json"
   ],
   "homeserver_url": "https://matrix.envs.net"
 }
